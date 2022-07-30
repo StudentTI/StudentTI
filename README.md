@@ -3,7 +3,7 @@
 🔭 Estou atualmente em transição de carreira... De química/laboratório e qualidade para tecnologia da informação.
 <br>
 📖🤓 Eu estou atualmente cursando Gestão da Tecnologia da Informação e para aproveitar o período de férias estou
-fazendo Bootcamp de Java Script na DIO, além de cursar (no momento em pausa) linguagem Python na UDEMY com 
+fazendo o curso de programação na escola Programador Life Stile, além de cursar (no momento em pausa) linguagem Python na UDEMY com 
 auxílio do livro "introdução à programação Python" de Nilo Ney Coutinho Menezes.
 <br>
 🔛 Estou totalmente disponível para colaborar em projetos, seja por meio de estágio, frelancer, ou mesmo em empregos remunerados ou não! 
